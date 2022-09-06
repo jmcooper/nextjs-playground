@@ -16,5 +16,5 @@ export default function Home() {
         Pluralsight React with Next.js Playbook Course
       </p>
     </div>
-  );
+  )
 }
