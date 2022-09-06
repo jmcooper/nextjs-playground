@@ -1,5 +1,5 @@
 # Next.js Playground
-Open [https://stackblitz.com/github/jmcooper/nextjs-playground?file=pages/index.js](https://stackblitz.com/github/jmcooper/nextjs-playground) to play with this project in a live environment right in your browser!
+Open [https://stackblitz.com/github/jmcooper/nextjs-playground](https://stackblitz.com/github/jmcooper/nextjs-playground?file=pages/index.js) to play with this project in a live environment right in your browser!
 
 This repo and the associate Stackblitz playground environment (link above) are for use with the Pluralsight `React with Next.js Playbook` course.
 
