@@ -1,3 +1,4 @@
 {
-  "startCommand": "npm run dev"
+  "startCommand": "npm run dev",
+  "file": "pages/index.js"
 }

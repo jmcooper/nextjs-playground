@@ -1,3 +1,8 @@
+# Next.js Playground
+Open [https://stackblitz.com/github/jmcooper/nextjs-playground](https://stackblitz.com/github/jmcooper/nextjs-playground) to play with this project in a live environment right in your browser!
+
+This repo and the associate Stackblitz playground environment (link above) are for use with the Pluralsight `React with Next.js Playbook` course.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
